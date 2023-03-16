@@ -1,0 +1,22 @@
+Source: lixbackups
+Section: misc
+Priority: optional
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13), bash (>= 4.3), tar(>= 1.26),
+	txt2man(>= 1.5), txt2manwrap(>=1.0)
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/lixbackups.git
+Vcs-Browser: https://github.com/m-grant-prg/lixbackups
+
+Package: lixbackups
+Architecture: all
+Depends: bash (>= 4.3), tar(>= 1.26), gawk(>=4.1),
+	mailutils(>=2.99.98), lsof(>=4.86), util-linux(>=2.25.2),
+	passwd(>=4.1.5), findutils(>=4.4.2), coreutils(>=8.23),
+	mount(>=2.25.2), bsdutils(>=2.25.2),
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
+Recommends: logrotate
+Description: Linux Backup Scripts
+ Performs backups for weekly, incremental, daily, or differential to a network
+ share.
