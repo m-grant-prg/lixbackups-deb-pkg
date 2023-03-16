@@ -1,9 +1,9 @@
-lixbackups (1.3.8+deb11u3) UNRELEASED; urgency=medium
+lixbackups (1.3.8+deb11u3) bullseye; urgency=medium
 
   * Update Debian files Copyright for 2023.
   * Update watch file to use git mode.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 16 Mar 2023 14:55:29 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 16 Mar 2023 15:07:03 +0000
 
 lixbackups (1.3.8+deb11u2) bullseye; urgency=medium
 
