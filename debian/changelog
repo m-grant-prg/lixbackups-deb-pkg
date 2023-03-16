@@ -1,0 +1,365 @@
+lixbackups (1.3.8-0ubuntu22.04u1) jammy; urgency=medium
+
+  * Create jammy branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 29 Apr 2022 10:43:00 +0100
+
+lixbackups (1.3.8-deb11u2) bullseye; urgency=medium
+
+  * Upgrade to compatibility level 13.
+  * Update debian/* Copyright for 2022.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 29 Apr 2022 10:31:00 +0100
+
+lixbackups (1.3.8-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Reviewed up to current standards version 4.5.1
+  * Correct license in copyright.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 25 Nov 2021 09:35:00 +0000
+
+lixbackups (1.3.7-deb11u1) bullseye; urgency=medium
+
+  * Create new bullseye branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 20 Aug 2021 08:03:13 +0100
+
+lixbackups (1.3.7-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 05 Jul 2021 13:39:13 +0100
+
+lixbackups (1.3.6+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 05 Mar 2021 11:03:16 +0000
+
+lixbackups (1.3.6-deb10u2) buster; urgency=medium
+
+  * Upgrade to compatibility level 12.
+  * Package reviewed up to current standards version 4.3.0.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 26 Oct 2020 11:13:15 +0100
+
+lixbackups (1.3.5-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 17 Jan 2020 15:03:34 +0000
+
+lixbackups (1.3.4+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+    Update Copyright for 2020.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Jan 2020 10:32:02 +0000
+
+lixbackups (1.3.4-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+    Correct filenamemangle to remove the v before the version number.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 18 Sep 2019 15:35:13 +0100
+
+lixbackups (1.3.3+rc2-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Aug 2019 07:17:18 +0100
+
+lixbackups (1.3.3+rc1-deb10u1) buster; urgency=medium
+
+  * Rebuild for buster.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 22 Jul 2019 15:20:20 +0100
+
+lixbackups (1.3.3+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 19 Apr 2019 15:23:20 +0100
+
+lixbackups (1.3.3-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 27 Mar 2019 09:37:22 +0000
+
+lixbackups (1.3.2-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 Mar 2019 09:44:21 +0000
+
+lixbackups (1.3.1-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update copyright file for 2019.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 24 Feb 2019 14:37:58 +0000
+
+lixbackups (1.2.19+rc4-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 05 Feb 2019 10:21:11 +0000
+
+lixbackups (1.2.19+rc3-deb9u2) stretch; urgency=medium
+
+  * Update watch file for new source tarball location on local hermes server.
+    Use PACKAGE.docs file AOT docs.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 04 Feb 2019 09:37:25 +0000
+
+lixbackups (1.2.19+rc3-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Feb 2019 15:38:25 +0000
+
+lixbackups (1.2.19+rc2-deb9u2) stretch; urgency=medium
+
+  * Add recommend logrotate to control file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Jan 2019 14:04:35 +0000
+
+lixbackups (1.2.19+rc2-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 28 Jan 2019 15:55:35 +0000
+
+lixbackups (1.2.19+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 28 Jan 2019 09:36:12 +0000
+
+lixbackups (1.2.19-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Correct control file Build-depends section.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 11 Jan 2019 10:22:35 +0000
+
+lixbackups (1.2.18-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update watch file to new standard version.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 09 Jan 2019 10:05:03 +0000
+
+lixbackups (1.2.17-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update watch file to new standard version.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 01 Nov 2018 11:01:23 +0000
+
+lixbackups (1.2.16-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 19 Oct 2018 10:34:05 +0100
+
+lixbackups (1.2.15-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 27 Aug 2018 10:05:05 +0100
+
+lixbackups (1.2.14-deb9u3) stretch; urgency=medium
+
+  * Change architecture to all as this package is architecture independent.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 24 Aug 2018 09:35:07 +0100
+
+lixbackups (1.2.14-deb9u2) stretch; urgency=medium
+
+  * Accommodate change to directory where source tarball is found on hermes.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Apr 2018 07:20:07 +0100
+
+lixbackups (1.2.14-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 11 Apr 2018 14:58:53 +0100
+
+lixbackups (1.2.13-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2018 13:23:39 +0000
+
+lixbackups (1.2.12-4-gd52a9df-mgent2) stretch; urgency=medium
+
+  * Remove unnecessary Depends ${shlibs:Depends} in control file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2018 13:08:02 +0000
+
+lixbackups (1.2.12-4-gd52a9df-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Feb 2018 10:11:02 +0000
+
+lixbackups (1.2.12-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Dec 2017 10:45:51 +0000
+
+lixbackups (1.2.11-0mgent2) stretch; urgency=medium
+
+  * Correct copyright file to GPLv3.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Nov 2017 10:43:20 +0100
+
+lixbackups (1.2.11-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 26 Oct 2017 13:28:20 +0100
+
+lixbackups (1.2.10-1-gbde6779-0mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 22 Oct 2017 10:31:24 +0100
+
+lixbackups (1.2.10-0mgent2) stretch; urgency=medium
+
+  * Using new gpg key.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 08 Sep 2017 10:38:21 +0100
+
+lixbackups (1.2.10-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Thu, 07 Sep 2017 15:51:21 +0100
+
+lixbackups (1.2.9-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Wed, 16 Aug 2017 16:15:23 +0100
+
+lixbackups (1.2.8-0mgent1) stretch; urgency=medium
+
+  * Change package format version.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 13 Aug 2017 10:33:33 +0100
+
+lixbackups (1.2.8-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+    Add --format=posix to the tar command to avoid the 99 character file name
+    limitation.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Fri, 30 Jun 2017 10:14:33 +0100
+
+lixbackups (1.2.7-0ubuntu1) xenial; urgency=medium
+
+  * Merge new upstream release. Main bug fix is - Move excludes before includes
+    in the tar command. With the introduction of GNU tar v1.29, some command
+    line arguments are sensitive to the order in which they appear. In our case
+    excludes must precede includes.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sat, 24 Jun 2017 08:57:18 +0100
+
+lixbackups (1.2.6-8-g2c9f5eb-0ubuntu1) xenial; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Tue, 20 Jun 2017 10:09:46 +0100
+
+lixbackups (1.2.6-3-g461d7cc-0ubuntu1) xenial; urgency=medium
+
+  * Urgent upstream bug fix release..
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 18 Jun 2017 10:32:46 +0100
+
+lixbackups (1.2.6-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 07 May 2017 13:30:26 +0100
+
+lixbackups (1.2.5-12-g20783e6-0ubuntu2) xenial; urgency=medium
+
+  * Bump version to solve launchpad build error.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Mon, 02 May 2017 17:45:43 +0100
+
+lixbackups (1.2.5-12-g20783e6-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Mon, 01 May 2017 10:22:43 +0100
+
+lixbackups (1.2.5-0ubuntu3) xenial; urgency=medium
+
+  * Update to xenial.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sun, 24 Apr 2016 14:56:15 +0100
+
+lixbackups (1.2.5-0ubuntu2) wily; urgency=medium
+
+  * Update to wily.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Tue, 24 Nov 2015 13:24:15 +0100
+
+lixbackups (1.2.5-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 19 Oct 2015 14:01:15 +0100
+
+lixbackups (1.2.4-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Tue, 06 Oct 2015 10:05:32 +0100
+
+lixbackups (1.2.3-4-g4a5f135-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 05 Oct 2015 10:26:17 +0100
+
+lixbackups (1.2.3-3-gfd7935a-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 28 Sep 2015 16:32:12 +0100
+
+lixbackups (1.2.3-2-g7940915-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 28 Sep 2015 15:33:55 +0100
+
+lixbackups (1.2.3-0ubuntu2) vivid; urgency=medium
+
+  * Update build and run dependancies.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Fri, 26 Jun 2015 08:29:44 +0100
+
+lixbackups (1.2.3-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Thu, 25 Jun 2015 10:01:44 +0100
+
+lixbackups (1.2.2-1-ge3fa364-0ubuntu1) vivid; urgency=low
+
+  * Initial release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Wed, 24 Jun 2015 11:13:40 +0100
