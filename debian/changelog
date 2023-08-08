@@ -1,3 +1,9 @@
+lixbackups (1.4.1+deb12u2) UNRELEASED; urgency=medium
+
+  * Bump version following merge.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:03:54 +0100
+
 lixbackups (1.4.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
