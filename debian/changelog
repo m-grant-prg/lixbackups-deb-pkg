@@ -5,6 +5,7 @@ lixbackups (1.4.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Update upstream Copyright.
   * Change Debian source format to native.
+  * Update watch file to support ~ in version numbers.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:24:56 +0100
 
