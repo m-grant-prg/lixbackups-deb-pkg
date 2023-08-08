@@ -3,6 +3,7 @@ lixbackups (1.4.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
   * Merge new upstream release.
   * Add hidden support files.
   * Remove txt2man, rely on txt2manwrap dependencies.
+  * Update upstream Copyright.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:24:56 +0100
 
