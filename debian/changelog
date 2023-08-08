@@ -1,11 +1,11 @@
-lixbackups (1.3.8-0ubuntu20.04u4) UNRELEASED; urgency=medium
+lixbackups (1.3.8-0ubuntu20.04u4) focal; urgency=medium
 
   * Correct hidden support file versions.
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Change Debian source format to native.
   * Update watch file to support ~ in version numbers.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:13:38 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:18:01 +0100
 
 lixbackups (1.3.8-0ubuntu20.04u3) focal; urgency=medium
 
