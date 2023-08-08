@@ -1,8 +1,9 @@
 lixbackups (1.4.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
+  * Add hidden support files.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:23:50 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 10:24:56 +0100
 
 lixbackups (1.3.8-0ubuntu22.04u2) jammy; urgency=medium
 
