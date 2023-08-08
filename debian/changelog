@@ -1,11 +1,11 @@
-lixbackups (1.4.1+deb12u1) UNRELEASED; urgency=medium
+lixbackups (1.4.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Update upstream Copyright for 2023.
   * Update watch file to support ~ in version numbers.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 09:53:33 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Aug 2023 09:58:45 +0100
 
 lixbackups (1.3.8+deb11u3) bullseye; urgency=medium
 
