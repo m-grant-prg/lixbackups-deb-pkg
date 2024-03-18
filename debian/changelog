@@ -1,3 +1,17 @@
+lixbackups (1.4.2~rc1+deb12u1) bookworm; urgency=medium
+
+  * Remove versions in Depends fields, too old
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 Mar 2024 13:34:53 +0000
+
 lixbackups (1.4.1+deb12u2) bookworm; urgency=medium
 
   * Bump version following merge.
