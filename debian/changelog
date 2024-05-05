@@ -1,3 +1,9 @@
+lixbackups (1.4.2+ubuntu24.04u1) noble; urgency=medium
+
+  * Create noble
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 05 May 2024 14:05:44 +0100
+
 lixbackups (1.4.2+ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release
