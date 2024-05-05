@@ -1,3 +1,9 @@
+lixbackups (1.4.2+ubuntu24.04u2) noble; urgency=medium
+
+  * Remove copy and paste error
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 05 May 2024 14:28:56 +0100
+
 lixbackups (1.4.2+ubuntu24.04u1) noble; urgency=medium
 
   * Create noble
