@@ -1,8 +1,14 @@
+lixbackups (1.4.3+ubuntu24.04u1) noble; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 09:16:44 +0100
+
 lixbackups (1.4.2+ubuntu24.04u2) noble; urgency=medium
 
   * Remove copy and paste error
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 05 May 2024 14:28:56 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 09:16:17 +0100
 
 lixbackups (1.4.2+ubuntu24.04u1) noble; urgency=medium
 
