@@ -1,8 +1,14 @@
+lixbackups (1.4.3+ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 09:11:39 +0100
+
 lixbackups (1.4.2+ubuntu22.04u2) jammy; urgency=medium
 
   * Remove copy and paste error
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 05 May 2024 14:19:55 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 09:10:55 +0100
 
 lixbackups (1.4.2+ubuntu22.04u1) jammy; urgency=medium
 
