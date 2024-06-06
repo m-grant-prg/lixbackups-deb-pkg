@@ -1,8 +1,14 @@
+lixbackups (1.4.3+deb12u1) bookworm; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 08:42:17 +0100
+
 lixbackups (1.4.3~rc1+deb12u1) bookworm; urgency=medium
 
   * New upstream development release
 
- -- Mark Grant <m.grant.prg@gmail.com>  Fri, 10 May 2024 14:36:17 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Jun 2024 08:41:19 +0100
 
 lixbackups (1.4.2+deb12u1) bookworm; urgency=medium
 
