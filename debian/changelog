@@ -1,3 +1,11 @@
+lixbackups (1.4.3+deb14u2) forky; urgency=medium
+
+  * Transition form Trixie to Forky
+  * Update upstream Copyright for 2025
+  * Update Debian Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 25 Aug 2025 09:51:54 +0100
+
 lixbackups (1.4.3+deb13u1) trixie; urgency=medium
 
   * New upstream release
