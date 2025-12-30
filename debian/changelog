@@ -1,3 +1,11 @@
+lixbackups (1.5.0~rc2+deb13u1) trixie; urgency=medium
+
+  * New upstream development release
+  * Update upstream Copyright for 2025
+  * Correct Copyright dates, checked via git
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 30 Dec 2025 15:10:53 +0000
+
 lixbackups (1.4.3+deb13u2) trixie; urgency=medium
 
   * New Debian release trixie
