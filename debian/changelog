@@ -1,3 +1,13 @@
+lixbackups (1.5.0+ubuntu24.04u1) noble; urgency=medium
+
+  * New upstream release
+  * Update Debian Copyright for 2025
+  * Update upstream Copyright for 2025
+  * Correct Copyright dates, checked via git
+  * Update Copyright for 2026
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 02 Jan 2026 09:48:38 +0000
+
 lixbackups (1.4.3+ubuntu24.04u1) noble; urgency=medium
 
   * New upstream release
