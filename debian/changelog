@@ -1,3 +1,11 @@
+lixbackups (1.5.0+deb14u1) forky; urgency=medium
+
+  * New upstream release
+  * Correct Copyright dates, checked via git
+  * Update Copyright for 2026
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 02 Jan 2026 09:45:04 +0000
+
 lixbackups (1.4.3+deb14u2) forky; urgency=medium
 
   * Transition form Trixie to Forky
