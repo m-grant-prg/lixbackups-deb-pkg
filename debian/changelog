@@ -1,3 +1,10 @@
+lixbackups (1.5.1+ubuntu26.04u1) resolute; urgency=medium
+
+  * Add build depends on shellcheck
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 27 Aug 2026 10:09:36 +0100
+
 lixbackups (1.5.0+ubuntu26.04u1) resolute; urgency=medium
 
   * Create resolute
