@@ -1,3 +1,10 @@
+lixbackups (1.5.1+deb14u1) forky; urgency=medium
+
+  * Add build depends on shellcheck
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 27 Aug 2026 10:00:49 +0100
+
 lixbackups (1.5.0+deb14u1) forky; urgency=medium
 
   * New upstream release
